@@ -4,7 +4,7 @@
 package com.ltu;
 
 /**
- * @author FPT LA
+ * @author uyphu
  *
  */
 public class Solutions {
